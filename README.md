@@ -51,6 +51,8 @@ A comprehensive process automation platform built with **n8n** that orchestrates
 | 💝 **Support-Us** | `SU-Form Submission.json` | Contribution intake (Technology, Financial, Volunteer) |
 | ⚠️ **Kickout System** | `Warn_Kick.json` | Performance monitoring with warning/removal automation |
 
+![Agent3](Agent3.jpeg)
+
 ---
 
 ### 🔧 **Technical Implementation**
@@ -169,6 +171,8 @@ n8n import:workflow --file="./[workflow-name].json"
 - **API-First Architecture**: Integration-ready for additional systems
 - **Template Framework**: Reusable components for rapid deployment
 - **Analytics Integration**: Ready for advanced reporting and insights
+
+![Agent4](Agent4.jpeg)
 
 ---
 
