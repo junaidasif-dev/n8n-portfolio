@@ -147,15 +147,6 @@ n8n import:workflow --file="./[workflow-name].json"
 
 ---
 
-### 📚 **Documentation**
-
-- **[Process Framework](Process-Framework.md)**: Comprehensive organizational guidelines
-- **Individual README files**: Detailed documentation for each program workflow
-- **Status Taxonomy**: Standardized state definitions across all pathways
-- **API Integration Guides**: Setup instructions for external systems
-
----
-
 ### 🔍 **Monitoring & Observability**
 
 - **Slack Notifications**: Real-time updates to operations team
